@@ -1,2 +1,0 @@
-# DogAdoption
-Created with CodeSandbox
