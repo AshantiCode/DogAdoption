@@ -7,6 +7,8 @@
         <h5>{{dog.breed}}</h5>
       </div>
     </v-card-title>
+    <!-- // emit is sending it to the parent which ist pet.vue, emit alwasys in lowercas -->
+    <v-btn @click="$emit('addToFavorites', dog)">Add to Favorites</v-btn>
   </v-card>
 </template>
   
