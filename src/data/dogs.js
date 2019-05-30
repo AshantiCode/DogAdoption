@@ -43,13 +43,13 @@ export const Dogs = [
   },
   {
     name: "Wanja",
-    breed: "Cloud",
+    breed: "Dachshund",
     img:
       "https://scontent-ber1-1.cdninstagram.com/vp/59d45a951713c31a3884dc31e4388bfa/5D8B51FB/t51.2885-15/e35/60009587_2094717997300021_6167517120293878169_n.jpg?_nc_ht=scontent-ber1-1.cdninstagram.com"
   },
   {
     name: "Lucy",
-    breed: "Podengo Portugues",
+    breed: "Affenpinscher",
     img:
       "https://scontent-ber1-1.cdninstagram.com/vp/7a4a508ed3a64f0a99ab0b714416dd9a/5D8016D6/t51.2885-15/e35/60192496_2258853821098429_4619967906612495748_n.jpg?_nc_ht=scontent-ber1-1.cdninstagram.com"
   }
